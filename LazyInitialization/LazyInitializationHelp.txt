@@ -1,0 +1,3 @@
+Lazy Initialization
+
+Use Lazy Initialization to defer the creation of a large or resource-intensive object, or the execution of a resource-intensive task, particularly when such creation or execution might not occur during the lifetime of the program.
